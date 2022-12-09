@@ -6,7 +6,6 @@ In order to find whether the course was any good before taking it, I got its rev
 
 ## Info about the dataset
 
-Course Name	Timestamp	Rating	Comment
 ![image](https://user-images.githubusercontent.com/49420009/206610151-8d571c0d-2bf5-480a-8d87-6e0ea7ddf54e.png)
 
 -The reviews.csv contains 4 columns as shown above and can be fetched from Udemy website by an normal scraper.
